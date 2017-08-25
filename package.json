@@ -1,9 +1,9 @@
 {
-  "name": "100868-keksobooking",
+  "name": "keksobooking",
   "version": "0.1.0",
   "private": true,
-  "description": "Обучающий проект «Кексобукинг» от HTML Academy",
-  "author": "o0",
+  "description": "",
+  "author": "",
   "repository": {
     "type": "git",
     "url": ""
